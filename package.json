@@ -1,0 +1,14 @@
+{
+    "main": "src/index.go",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/qiongtubao/latte_go_verify.git"
+	},
+    "devDependencies": {
+        "latte_go_lib": "github.com/qiongtubao/latte_go_lib"
+    },
+    "engines": {
+        "go_version" : ">= 1.6.0",
+        "go_system": "drawin/amd64"
+    }
+}
